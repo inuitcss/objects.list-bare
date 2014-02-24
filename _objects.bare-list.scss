@@ -6,7 +6,8 @@
  * The bare-list object simply removes any indents and bullet points from lists.
  */
 
-.bare-list {
+.#{$inuit-namespace}bare-list,
+%#{$inuit-namespace}bare-list {
     margin-left: 0;
     list-style: none;
 }
