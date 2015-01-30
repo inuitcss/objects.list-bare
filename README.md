@@ -5,3 +5,7 @@ The `list-bare` object simply removes bullets and indents from lists.
 Install using Bower:
 
     $ bower install --save inuit-list-bare
+
+Install using npm:
+
+    $ npm install --save inuit-list-bare

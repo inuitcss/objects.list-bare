@@ -1,0 +1,24 @@
+{
+  "name": "inuit-list-bare",
+  "version": "0.3.0",
+  "description": "A simple object to remove bullets and indents from lists",
+  "main": "_objects.list-bare.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inuitcss/objects.list-bare.git"
+  },
+  "author": "Harry Roberts <harry@csswizardry.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/inuitcss/objects.list-bare/issues"
+  },
+  "homepage": "https://github.com/inuitcss/objects.list-bare",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "dependencies": {
+    "inuit-defaults": "~0.2.0"
+  }
+}
