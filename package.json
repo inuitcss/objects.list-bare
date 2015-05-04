@@ -1,6 +1,6 @@
 {
   "name": "inuit-list-bare",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A simple object to remove bullets and indents from lists",
   "main": "_objects.list-bare.scss",
   "repository": {
